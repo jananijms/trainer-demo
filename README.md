@@ -1,2 +1,3 @@
 # trainer-demo
-demo purpose
+demo purposes for freshers
+
