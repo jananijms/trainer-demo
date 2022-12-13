@@ -1,0 +1,18 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "Hello world Heroku from GIT HUB",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "Janani",
+  "license": "MIT",
+  "engines": {
+    "node": "7.6.0"
+  },
+  "main": "index.js"
+}
